@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alan+Sans&size=22&pause=1000&color=AEF787&background=19271DD4&center=true&vCenter=true&width=600&height=55&lines=HELLO+EVERYONE+!!!;My+name+is+Quang+Khanh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alan+Sans&size=22&pause=1000&color=AEF787&background=19271DD4&center=true&vCenter=true&width=900&height=55&lines=HELLO+EVERYONE+!!!;My+name+is+Quang+Khanh" alt="Typing SVG" /></a>
